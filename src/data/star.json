@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Sirius",
+    "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+    "distancia": "8.6 años luz",
+    "mass": "2.02 masas solares",
+    "radius": "1.711 radios solares",
+    "temperature": "9,940 K",
+    "luminosity": "25.4 luminosidades solares",
+    "age": "200-300 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+  },
+  {
+    "id": 2,
+    "name": "Proxima Centauri",
+    "type": "Enana roja, Secuencia Principal (tipo M5.5V)",
+    "distancia": "4.24 años luz",
+    "mass": "0.12 masas solares",
+    "radius": "0.14 radios solares",
+    "temperature": "3,050 K",
+    "luminosity": "0.0015 luminosidades solares",
+    "age": "5,400 millones de años",
+    "composition": {
+      "hydrogen": "85%",
+      "helium": "15%",
+      "otros_elementos": "0.05%"
+    },
+    "stellar_history": "Proxima Centauri es la estrella más cercana al sistema solar y es una enana roja. Tiene una luminosidad muy baja y es más antigua que el Sol."
+  },
+  {
+    "id": 3,
+    "name": "Alpha Centauri A",
+    "type": "Estrella en la secuencia principal (tipo G2V)",
+    "distancia": "4.37 años luz",
+    "mass": "1.1 masas solares",
+    "radius": "1.22 radios solares",
+    "temperature": "5,770 K",
+    "luminosity": "1.5 luminosidades solares",
+    "age": "6,000 millones de años",
+    "composition": {
+      "hydrogen": "74%",
+      "helium": "24%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Alpha Centauri A es una estrella similar al Sol y es parte del sistema estelar Alpha Centauri, que también incluye a Alpha Centauri B y Proxima Centauri."
+  },
+  {
+    "id": 4,
+    "name": "Betelgeuse",
+    "type": "Supergigante roja (tipo M1-M2Ia)",
+    "distancia": "643 años luz",
+    "mass": "10-20 masas solares",
+    "radius": "887-1,217 radios solares",
+    "temperature": "3,500 K",
+    "luminosity": "120,000-200,000 luminosidades solares",
+    "age": "8-10 millones de años",
+    "composition": {
+      "hydrogen": "85%",
+      "helium": "13%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Betelgeuse es una supergigante roja en la constelación de Orión. Es una de las estrellas más grandes conocidas y está cerca del final de su vida."
+  }
+]
+      
