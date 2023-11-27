@@ -2,19 +2,20 @@ import { Request, Response } from 'express';
 import * as Joi from 'joi';
 
 // Definir el esquema de validación Joi para los datos de la estrella
-const starSchema = Joi.object({
+const placeSchema = Joi.object({
   id: Joi.number().required(),
   name: Joi.string().required(),
-  type: Joi.string().required(),
-  distancia: Joi.string().required(),
-  mass: Joi.string().required(),
-  radius: Joi.string().required(),
+  latitude: Joi.number().required(),
+  length: Joi.number().required(),
+  link: Joi.string().required(),
+  description: Joi.string().required(),
+  timetable: Joi.string().required(),
 });
 
-export async function createStarController(req: Request, res: Response) {
-  const starData = req.body;
+export async function createPlaceController(req: Request, res: Response) {
+  const placeData = req.body;
 
-  const { error } = starSchema.validate(starData);
+  const { error } = placeSchema.validate(placeData);
 
   if (error) {
     return res.status(400).json({
@@ -26,6 +27,6 @@ export async function createStarController(req: Request, res: Response) {
 
   res.status(200).json({
     status: 'OK',
-    message: 'Star data is valid',
+    message: 'Place data is valid',
   });
 }

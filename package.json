@@ -1,7 +1,7 @@
 {
-  "name": "tp-node",
+  "name": "pilar-integrador",
   "version": "1.0.0",
-  "description": "Trabajos practicos Node/Express/Ts",
+  "description": "Trabajo Integrador - Lugares de interes para ingresantes - Universidad de La Rioja",
   "main": "index.js",
   "scripts": {
     "build": "tsc",

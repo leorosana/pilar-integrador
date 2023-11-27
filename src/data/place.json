@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Rectorado",
+    "latitude": -29.42955, 
+    "length": -66.86845,
+    "link": "https://maps.app.goo.gl/W26DhBYdChi5wTGK6",
+    "description": "Edificio principal, donde se encuentran las oficinas de autoridades superiores.",
+    "timetable": "Lunes a viernes: 9:00 - 13:00 y 16:00 a 20:00"
+  },
+  {
+    "id": 2,
+    "name": "Oficina de Alumnos",
+    "latitude": -29.43047, 
+    "length": -66.86877,
+    "link": "https://maps.app.goo.gl/SAhWSsSXWN9PRL2T9",
+    "description": "Oficina que centraliza los tramites del alumnado.",
+    "timetable": "Lunes a viernes: 9:00 - 21:00"
+  },
+  {
+    "id": 3,
+    "name": "FUNLAR",
+    "latitude": -29.43007, 
+    "length": -66.86875,
+    "link": "https://maps.app.goo.gl/cjQ59sXCBwD2Vs2X8",
+    "description": "Fundacion de la Univeridad Nacional de La Rioja.",
+    "timetable": "Lunes a viernes: 8:30 - 14:00 y 15:00 a 21:00"
+  },
+  {
+    "id": 4,
+    "name": "Comedor Universitario",
+    "latitude": -29.42954, 
+    "length": -66.87105,
+    "link": "https://maps.app.goo.gl/EQdgfsNEmDasUVfx9",
+    "description": "Comedor Universitario Monseñor Angelelli",
+    "timetable": "Lunes a viernes: 11:00 - 21:00 y Sabados: 11:00 a 15:00"
+  }
+]
+      
